@@ -18,8 +18,8 @@ html {
 
 .cards li {
   display: inline-block;
-  margin: 0 .5 1em;
-  max-width: 20em
+  margin: 0 .5em 1em;
+  max-width: 20em;
   padding: 1em;
   background-color: #fff;
   border: 3px solid #e2e2e2;
